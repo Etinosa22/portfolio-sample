@@ -334,7 +334,8 @@ footer p:last-child{
 
     .content{
         width: 90%;
-        margin: 100px auto;
+        margin: 150px auto;
+        border: 2px solid;
     }
 
     h4{
@@ -355,14 +356,15 @@ footer p:last-child{
     }
 
     .newsletter form input:first-child{
-        width: 50%;
+        width: 85%;
+        padding: 12px;
     }
 
     .newsletter form input:last-child{
         font-size: .8em;
-        padding: 15px 25px;
-        left: 60%;
-        top: 10%;
+        padding: 10px 20px;
+        left: 62%;
+        top: 8%;
     }
 
     .main {
@@ -393,6 +395,10 @@ footer p:last-child{
         font-size: 15px;
         width: 90%;
         margin: 0 auto;
+    }
+
+    button{
+        padding: 10px 25px;
     }
 
     .title{
@@ -427,13 +433,6 @@ footer p:last-child{
         margin: 30px auto;    
     }
 
-    #para {
-        font-size: 1.5em;
-        width: 80%;
-        margin: 0 auto;
-        margin-bottom: 40px;
-    }
-
     .contact-me {
         /* border: 2px solid; */
         padding-top: 20px;
@@ -443,7 +442,29 @@ footer p:last-child{
         cursor: pointer;
     }
 
+    #para {
+        font-size: 1.5em;
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+
+    .btn2 {
+        padding: 10px 25px;
+    }
+
+    footer p:first-child{
+        font-size: 1.5em;
+    }
+
+    .social a {
+        width:20px;
+        height:20px;
+        padding: 7px;
+    }
+
     footer p:last-child {
         margin-bottom: 20px;
+        font-size: 1em;
     }
 }
