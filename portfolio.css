@@ -59,13 +59,12 @@ nav ul li a:hover{
     text-decoration: none;
     color: #fff;
     background: rgb(255, 27, 27);
-    padding: 15px 45px;
+    padding: 15px 35px;
     border-radius: 25px;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .content{
-    border: 2px solid red;
     padding: 10px;
     width: 55%;
     margin: 150px auto;
@@ -82,11 +81,10 @@ h1 {
 
 h3 {
     color: rgb(255, 27, 27);
-    font-size: 25px;
     letter-spacing: 2px;
     font-weight: 300;
     /* margin: 10px 0; */
-    font-size: 2.5em;
+    font-size: 1.7em;
 }
 
 .newsletter form{
@@ -124,14 +122,13 @@ h3 {
 
 .about {
     width: 100%;
-    /* border: 2px solid red; */
     padding: 100px 0;
     background-color: #191919;
 }
 
 .main{
-    width: 1130px;
-    max-width: 95%;
+    /* width: 1130px; */
+    width: 55%;
     display: flex;
     margin: 0 auto;
     justify-content: space-between;
@@ -144,10 +141,7 @@ h3 {
 
 .about-text{
     width: 50%;
-    /* text-align: center; */
     margin: 20px 0;
-    /* border: 2px solid red; */
-    /* padding: 20px; */
 }
 
 .about-text h2 {
@@ -187,7 +181,6 @@ button {
 
 .title h2 {
     font-size: 4em;
-    /* width: 1130px; */
     margin: 30px auto;
     text-align: center;
     letter-spacing: 1px;
@@ -197,13 +190,13 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 400px;
     text-align: center;
+    width: 90%;
+    margin: 10px auto;
 }
 
 .card{
-    /* height: 365px; */
-    width: 335px;
+    width: 30%;
     padding: 20px 35px;
     background: #191919;
     border-radius: 20px;
@@ -213,20 +206,25 @@ button {
 .fa-location-arrow{
     font-size: 4em;
     color: rgb(255, 27, 27);
-    margin: 25px 0;
+    margin: 25px auto;
 }
 
 .card h5 {
     font-size: 2em;
-    margin: 5px 0;
+    margin: 5px auto;
     letter-spacing: 1px;
-    /* font-weight:300; */
+    width: 90%;
 }
 
-.descr p {
+.desc p {
     line-height: 27px;
-    margin: 20px 0;
+    width: 90%;
+    margin: 20px auto;
     font-size: 16px;
+}
+
+.btn-1 {
+    cursor: pointer;
 }
 
 .button {
@@ -323,7 +321,7 @@ footer p:last-child{
 
     .btn{
         font-size: 1em;
-        padding: 10px 20px;
+        padding: 7px 15px;
     }
 
     .logo{
@@ -409,6 +407,7 @@ footer p:last-child{
 
     .box{
         display: block;
+        width: 100%;
     }
 
     .card{
@@ -419,18 +418,20 @@ footer p:last-child{
 
     .card h5{
         font-size: 1.5em;
+        width: 80%;
+        margin: 0 auto;
     }
 
     .card p {
         font-size: 15px;
-        margin: 30px 0;
+        margin: 30px auto;    
     }
 
     #para {
         font-size: 1.5em;
         width: 80%;
         margin: 0 auto;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
     }
 
     .contact-me {
@@ -440,5 +441,9 @@ footer p:last-child{
 
     .contact-me a{
         cursor: pointer;
+    }
+
+    footer p:last-child {
+        margin-bottom: 20px;
     }
 }
