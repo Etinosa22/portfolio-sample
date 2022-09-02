@@ -65,7 +65,7 @@ nav ul li a:hover{
 }
 
 .content{
-    /* border: 2px solid red; */
+    border: 2px solid red;
     padding: 10px;
     width: 55%;
     margin: 150px auto;
@@ -73,11 +73,11 @@ nav ul li a:hover{
 
 h4{
     font-weight: 300;
-    font-size: 2rem;
+    font-size: 2em;
 }
 
 h1 {
-    font-size: 7rem;
+    font-size: 6em;
 }
 
 h3 {
@@ -86,7 +86,7 @@ h3 {
     letter-spacing: 2px;
     font-weight: 300;
     /* margin: 10px 0; */
-    font-size: 2.5rem;
+    font-size: 2.5em;
 }
 
 .newsletter form{
@@ -140,7 +140,6 @@ h3 {
 
 .main img {
     width: 45%;
-
 }
 
 .about-text{
@@ -187,7 +186,7 @@ button {
 }
 
 .title h2 {
-    font-size: 4rem;
+    font-size: 4em;
     /* width: 1130px; */
     margin: 30px auto;
     text-align: center;
@@ -212,13 +211,13 @@ button {
 }
 
 .fa-location-arrow{
-    font-size: 4rem;
+    font-size: 4em;
     color: rgb(255, 27, 27);
     margin: 25px 0;
 }
 
 .card h5 {
-    font-size: 2rem;
+    font-size: 2em;
     margin: 5px 0;
     letter-spacing: 1px;
     /* font-weight:300; */
@@ -251,7 +250,7 @@ button {
 }
 
 .contact-me p {
-    font-size: 2.5rem;
+    font-size: 2.5em;
     font-weight: bold;
     letter-spacing: 2px;
     margin-bottom: 25px;
@@ -323,12 +322,12 @@ footer p:last-child{
     }
 
     .btn{
-        font-size: 1rem;
+        font-size: 1em;
         padding: 10px 20px;
     }
 
     .logo{
-        font-size: 1.5rem;
+        font-size: 1.5em;
     }
 
     nav ul{
@@ -341,15 +340,15 @@ footer p:last-child{
     }
 
     h4{
-        font-size: 1.5rem;
+        font-size: 1.5em;
     }
 
     h1{
-        font-size: 2.5rem;
+        font-size: 2.5em;
     }
 
     h3{
-        font-size: 1.2rem;
+        font-size: 1.2em;
         margin-bottom: 20px;
     }
 
@@ -362,7 +361,7 @@ footer p:last-child{
     }
 
     .newsletter form input:last-child{
-        font-size: .8rem;
+        font-size: .8em;
         padding: 15px 25px;
         left: 60%;
         top: 10%;
@@ -375,8 +374,7 @@ footer p:last-child{
         margin-top: 50px;
     }
     .main img {
-        width: 90%;
-        
+        width: 90%;        
     }
 
     .about-text{
@@ -385,11 +383,11 @@ footer p:last-child{
         margin: 30px auto;
     }
     .about-text h2 {
-        font-size: 2.5rem;
+        font-size: 2.5em;
     }
 
     .about-text h5 {
-        font-size: 1.2rem;
+        font-size: 1.2em;
     }
 
     .about-text p {
@@ -405,7 +403,7 @@ footer p:last-child{
     }
 
     .title h2{
-        font-size: 2rem;
+        font-size: 2em;
         width: 90%;
     }
 
@@ -420,7 +418,7 @@ footer p:last-child{
     }
 
     .card h5{
-        font-size: 1.5rem;
+        font-size: 1.5em;
     }
 
     .card p {
@@ -429,7 +427,7 @@ footer p:last-child{
     }
 
     #para {
-        font-size: 1.5rem;
+        font-size: 1.5em;
         width: 80%;
         margin: 0 auto;
         margin-bottom: 20px;
