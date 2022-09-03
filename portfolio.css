@@ -14,7 +14,7 @@ body{
 
 .hero{
     height: 100vh;
-    background: url(/img/bg.jpeg);
+    background: url('bg.jpeg');
     background-size: cover;
     background-position: center;
 }
@@ -40,15 +40,15 @@ span{
 nav ul li{
     list-style-type: none;
     display: inline-block;
-    padding: 10px 25px;
+    padding: 10px 15px;
 }
 
 nav ul li a{
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 1.1em;
     /* font-weight: bold; */
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 
 nav ul li a:hover{
@@ -59,24 +59,24 @@ nav ul li a:hover{
     text-decoration: none;
     color: #fff;
     background: rgb(255, 27, 27);
-    padding: 15px 35px;
+    padding: 12px 25px;
     border-radius: 25px;
-    font-size: 17px;
+    font-size: .9em;
 }
 
 .content{
     padding: 10px;
     width: 55%;
-    margin: 150px auto;
+    margin: 100px auto;
 }
 
 h4{
     font-weight: 300;
-    font-size: 2em;
+    font-size: 1.4em;
 }
 
 h1 {
-    font-size: 6em;
+    font-size: 5em;
 }
 
 h3 {
@@ -84,7 +84,7 @@ h3 {
     letter-spacing: 2px;
     font-weight: 300;
     /* margin: 10px 0; */
-    font-size: 1.7em;
+    font-size: 1.5em;
 }
 
 .newsletter form{
@@ -127,8 +127,7 @@ h3 {
 }
 
 .main{
-    /* width: 1130px; */
-    width: 55%;
+    width: 60%;
     display: flex;
     margin: 0 auto;
     justify-content: space-between;
@@ -136,29 +135,29 @@ h3 {
 }
 
 .main img {
-    width: 45%;
+    width: 50%;
 }
 
 .about-text{
-    width: 50%;
-    margin: 20px 0;
+    width: 45%;
+    margin: 20px 5px;
 }
 
 .about-text h2 {
-    font-size: 75px;
+    font-size: 2em;
 }
 
 .about-text h5{
     font-size: 25px;
     font-weight: 300;
-    margin: 10px 0;
 }
 
 .about-text p {
     text-align: justify;
     margin: 10px 0;
-    font-size: 16px;
-    letter-spacing: 1px;
+    font-size: 13px;
+    letter-spacing: .4px;
+    width: 100%;
 }
 
 button {
@@ -166,11 +165,12 @@ button {
     color: #fff;
     text-decoration: none;
     border: 2px solid transparent;
-    padding: 13px 40px;
-    font-size: 16px;
+    padding: 10px 30px;
+    font-size: 15px;
     font-weight: bold;
     border-radius: 30px;
-    margin: 20px 0;
+    margin: 5px 0;
+    cursor: pointer;
 }
 
 .service {
@@ -180,8 +180,8 @@ button {
 }
 
 .title h2 {
-    font-size: 4em;
-    margin: 30px auto;
+    font-size: 3em;
+    margin: 20px auto;
     text-align: center;
     letter-spacing: 1px;
 }
@@ -191,7 +191,7 @@ button {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 90%;
+    width: 100%;
     margin: 10px auto;
 }
 
@@ -210,7 +210,7 @@ button {
 }
 
 .card h5 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin: 5px auto;
     letter-spacing: 1px;
     width: 90%;
@@ -220,7 +220,7 @@ button {
     line-height: 27px;
     width: 90%;
     margin: 20px auto;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .btn-1 {
@@ -248,7 +248,7 @@ button {
 }
 
 .contact-me p {
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: bold;
     letter-spacing: 2px;
     margin-bottom: 25px;
@@ -334,7 +334,7 @@ footer p:last-child{
 
     .content{
         width: 90%;
-        margin: 150px auto;
+        margin: 100px auto;
     }
 
     h4{
