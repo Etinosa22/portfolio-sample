@@ -13,3 +13,4 @@ I have developed extensive knowledge working with :
 
 <li><a href="https://github.com/Etinosa22">Github</a></li>
 <li><a href="https://twitter.com/i_amnosa">Twitter</a></li>
+<li><a href="https://www.linkedin.com/in/etinosaekhator/">LinkedIn</a></li>
