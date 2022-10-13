@@ -2,6 +2,14 @@
 
 <img src="./img/image.png" alt="banner that says Etinosa Ekhator - Frontend Developer">
 
+###Thank you for checking out my page
+
+---
+
+**This is my sampled portfolio. Still working to improve the layout and will also be updating the text as time goes on**
+
+---
+
 A Front-end developer who is open to learning and passionate about writing codes. I am also keen on providing solutions using technology. I am currently learning React.
 
 I have developed extensive knowledge working with :
