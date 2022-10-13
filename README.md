@@ -2,11 +2,11 @@
 
 <img src="./img/image.png" alt="banner that says Etinosa Ekhator - Frontend Developer">
 
-###Thank you for checking out my page
+### Thank you for checking out my page
 
 ---
 
-**This is my sampled portfolio. Still working to improve the layout and will also be updating the text as time goes on**
+## This is my sampled portfolio. Still working to improve the layout and will also be updating the text as time goes on 
 
 ---
 
